@@ -1,0 +1,109 @@
+{
+	"name": "Red with black",
+	"description": "The Red version in my series of With Black",
+	"authors": [
+		{
+			"name": "Jimbojeen",
+			"id": "964352426364768287"
+		}
+	],
+	"semanticColors": {
+		"HEADER_PRIMARY": [
+			"#9B0101"
+		],
+		"HEADER_SECONDARY": [
+			"#9B0101"
+		],
+		"TEXT_NORMAL": [
+			"#000000"
+		],
+		"TEXT_MUTED": [
+			"#BE0000"
+		],
+		"TEXT_LINK": [
+			"#BE0000"
+		],
+		"INTERACTIVE_NORMAL": [
+			"#9B0101"
+		],
+		"INTERACTIVE_HOVER": [
+			"#0DBE0000"
+		],
+		"INTERACTIVE_ACTIVE": [
+			"#BE0000"
+		],
+		"INTERACTIVE_MUTED": [
+			"#BE0000"
+		],
+		"BACKGROUND_PRIMARY": [
+			"#9B0101"
+		],
+		"BACKGROUND_SECONDARY": [
+			"#BE0000"
+		],
+		"BACKGROUND_SECONDARY_ALT": [
+			"#9B0101"
+		],
+		"BACKGROUND_TERTIARY": [
+			"#9B0101"
+		],
+		"BACKGROUND_ACCENT": [
+			"#BE0000"
+		],
+		"BACKGROUND_FLOATING": [
+			"#000000"
+		],
+		"BACKGROUND_NESTED_FLOATING": [
+			"#9B0101"
+		],
+		"BACKGROUND_MOBILE_PRIMARY": [
+			"#000000"
+		],
+		"BACKGROUND_MOBILE_SECONDARY": [
+			"#BE0000"
+		],
+		"BACKGROUND_MESSAGE_HOVER": [
+			"#BE0000"
+		],
+		"BACKGROUND_MODIFIER_HOVER": [
+			"#BE0000"
+		],
+		"BACKGROUND_MODIFIER_ACTIVE": [
+			"#BE0000"
+		],
+		"BACKGROUND_MODIFIER_SELECTED": [
+			"#BE0000"
+		],
+		"BACKGROUND_MODIFIER_ACCENT": [
+			"#9B0101"
+		],
+		"CHANNEL_ICON": [
+			"#9B0101"
+		],
+		"CHAT_BACKGROUND": [
+			"#9B0101"
+		],
+		"CHANNEL_TEXT_AREA_PLACEHOLDER": [
+			"#BE0000"
+		],
+		"TEXT_DANGER": [
+			"#FFFFFF"
+		],
+		"SPOILER_HIDDEN_BACKGROUND": [
+			"#BE0000"
+		]
+	},
+	"rawColors": {
+		"PRIMARY_100": "#BE0000",
+		"PRIMARY_200": "#9B0101",
+		"PRIMARY_300": "BE0000",
+		"PRIMARY_360": "9B0101",
+		"PRIMARY_400": "9B0101",
+		"PRIMARY_500": "000000",
+		"PRIMARY_600": "000000",
+		"PRIMARY_630": "9B0101",
+		"PRIMARY_700": "9B0101",
+		"PRIMARY_800": "BE0000"
+	},
+	"spec": 2
+}
