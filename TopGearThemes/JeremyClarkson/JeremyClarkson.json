@@ -1,0 +1,129 @@
+{
+    "name": "Jeremy Clarkson",
+    "description": "For all the top gear fans. DARK MODE REQUIRED!",
+    "authors": [
+        {
+            "name": "Jimbojeen",
+            "id": "964352426364768287"
+        }
+    ],
+    "semanticColors": {
+        "HEADER_PRIMARY": [
+            "#ffffff"
+        ],
+        "HEADER_SECONDARY": [
+            "#2c387d"
+        ],
+        "TEXT_NORMAL": [
+            "#ffffff"
+        ],
+        "TEXT_MUTED": [
+            "#2c387d"
+        ],
+        "TEXT_LINK": [
+            "#2c387d"
+        ],
+        "TEXT_DANGER": [
+            "#2c387d"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#ffffff"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#ffffff"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#808080"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#071357"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#071357"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#071357"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#071357"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#2c387d"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#071357"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#071357"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#071357"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#071357"
+        ],
+        "BACKGROUND_MENTIONED": [
+            "#0D1d2e8c"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#071357"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#2c387d"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#071357"
+        ],
+        "SPOILER_HIDDEN_BACKGROUND": [
+            "#071357"
+        ],
+        "SPOILER_REVEALED_BACKGROUND": [
+            "transparent"
+        ],
+        "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+            "#999999"
+        ],
+        "CHAT_BACKGROUND": [
+            "#071357"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#c4c4c4"
+        ],
+        "TEXT_LINK": [
+            "#4c7f90"
+        ],
+        "CHANNEL_ICON": [
+            "#ffffff"
+        ]
+    },
+    "rawColors": {
+        "PRIMARY_100": "#ffffff",
+        "PRIMARY_200": "#ffffff",
+        "PRIMARY_300": "#ffffff",
+        "PRIMARY_360": "#2c387d",
+        "PRIMARY_500": "#2c387d",
+        "PRIMARY_600": "#071357",
+        "PRIMARY_630": "#071357",
+        "PRIMARY_660": "#071357",
+        "PRIMARY_700": "#071357",
+        "PRIMARY_800": "#071357",
+        "BRAND_260": "#2c387d",
+        "BRAND_360": "#2c387d",
+        "BRAND_500": "#2c387d",
+        "BRAND_560": "#ffffff",
+        "WHITE_500": "#ffffff",
+        "BLUE_345": "#2c387d",
+        "YELLOW_300": "#2c387d",
+        "ORANGE_345": "#2c387d",
+        "GREEN_345": "#2c387d",
+        "GREEN_360": "#2c387d",
+        "RED_560" : "#2c387d",
+        "RED_400": "#2c387d"
+    },
+    "spec": 2,
+    "background": {
+        "url":
+        "alpha": 0.5,
+        "color": "#071357"
+    }
+}
