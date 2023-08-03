@@ -119,8 +119,9 @@
         "GREEN_360": "#4c7f90",
         "RED_560" : "#4c7f90",
         "RED_400": "#4c7f90"
-      },
-    "background": {
+    
+    },
+  "background": {
     "blur": 0,
     "url": "https://raw.githubusercontent.com/Quinxxxx/VendettaThemes1/main/TopGearThemes/JamesMay/bg.gif",
     "alpha": 0.42
